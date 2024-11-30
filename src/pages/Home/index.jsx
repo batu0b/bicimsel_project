@@ -1,7 +1,5 @@
 import React from 'react';
 
-import { TextInput } from '../../components/Inputs/TextInput';
-
 import { Form } from './Form';
 
 export const Home = () => {
