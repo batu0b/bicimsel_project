@@ -27,7 +27,7 @@
     "javascript": "javascriptreact"
   },
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   // More info: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   "eslint.probe": ["javascript", "javascriptreact", "typescript", "typescriptreact"]

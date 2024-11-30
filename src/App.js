@@ -1,11 +1,11 @@
+import { Header } from './components/Header';
+import { Home } from './pages/Home';
+
 function App() {
   return (
     <div style={{ textAlign: 'center' }}>
-      <header>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
+      <Header />
+      <Home />
     </div>
   );
 }
